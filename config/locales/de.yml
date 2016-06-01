@@ -14,7 +14,7 @@
 #
 # See http://community.openfoodnetwork.org/t/localisation-ofn-in-your-language/397
 
-en:
+de:
   activerecord:
     # Overridden here due to a bug in spree i18n (Issue #870)
     attributes:
@@ -24,7 +24,7 @@ en:
   devise:
     failure:
       invalid: |
-        Invalid email or password.
+        EMail oder Passwort ungültig.
         Were you a guest last time?  Perhaps you need to create an account or reset your password.
     enterprise_confirmations:
       enterprise:
